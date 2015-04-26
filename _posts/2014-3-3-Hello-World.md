@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Library Carpentry
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##where: Centre for Information Science, City University London
+##when: Monday 9, 13, 23, 30 November 2015, 1730-2030
+##who: library folks who want to develop software skills
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
