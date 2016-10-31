@@ -12,7 +12,6 @@ you:
 - create, maintain and analyse sustainable and reusable data
 - work effectively with IT and systems colleagues
 - *and much more…*
-<!-- TODO: ultimately this should link to some case studies -->
 
 Library Carpentry introduces you to the fundamentals of computing and
 provides you with a platform for further self-directed learning.
