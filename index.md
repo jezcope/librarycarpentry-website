@@ -11,10 +11,16 @@ you:
 - automate repetitive, boring, error-prone tasks
 - create, maintain and analyse sustainable and reusable data
 - work effectively with IT and systems colleagues
+- better understand the use of software in research
 - *and much more…*
 
 Library Carpentry introduces you to the fundamentals of computing and
 provides you with a platform for further self-directed learning.
+
+WORKSHOP CALL
+-----------
+
+Thanks to [British Library Labs]http://labs.bl.uk/ we have £500 to support a Library Carpentry workshop. If you need financial support to run a Library Carpentry workshop at your library or for librarians, see our [blog](http://librarycarpentry.github.io/workshop-call/) for details of how to apply. The deadline for applications is 16 December.
 
 Our Lessons
 -----------
