@@ -23,7 +23,7 @@ Workshops are run by a team. Ideally this will consist of:
 - a [Lead Instructor](http://software-carpentry.org/checklists/lead/) (who is in charge of deciding what will be taught by whom and ensuring the teaching aspects of the workshop go smoothly)
 - [Helpers](http://software-carpentry.org/checklists/helper/) (who provide assistance during practical sessions). Workshops can be any size. 
 
-To maintain the quality of Library Carpentry workshops, it is highly recommend that a Software/Data Carpentry certified instructor is present at each workshop. For more on Software/Date Carpentry instructors and instructor training, see http://software-carpentry.org/join/. 
+To maintain the quality of Library Carpentry workshops, it is highly recommend that a Software/Data Carpentry certified instructor is present at each workshop. For more on Software/Date Carpentry instructors and instructor training, see <http://software-carpentry.org/join/>.
 
 ______
 
