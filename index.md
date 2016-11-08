@@ -14,8 +14,9 @@ you:
 - better understand the use of software in research
 - *and much more…*
 
-Library Carpentry introduces you to the fundamentals of computing and
-provides you with a platform for further self-directed learning.
+Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
+
+*Winner of the 2016 [British Library Labs](http://labs.bl.uk/British+Library+Labs+Awards) Teaching and Learning Award*
 
 Workshop Call
 -----------
