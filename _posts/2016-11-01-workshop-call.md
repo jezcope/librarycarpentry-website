@@ -8,6 +8,7 @@ Library Carpentry is software skills training aimed at the needs and requirement
 - automate repetitive, boring, error-prone tasks
 - create, maintain and analyse sustainable and reusable data
 - work effectively with IT and systems colleagues
+- better understand the use of software in research
 - *and much more..*
 
 Training takes places in face-to-face workshops where one or more of the developed modules are taught. Modules are also made available online ([CC BY](http://data-lessons.github.io/library-data-intro/license/), published via GitHub Pages) for self-directed study or for adaption and reuse by library professionals.
