@@ -19,7 +19,7 @@ Applications for these funds should include the following information:
 
 - Where the workshop will be held
 - The workshop host and a contact email address
-- The workshop trainer(s) and helper(s)
+- The workshop instructors(s) and helper(s)
 - The format of the workshop
 	- For example: 1 day, 2 consecutive days, 3 non-consecutive half-days (or whatever format works for you)
 - Which Library Carpentry modules will be taught
