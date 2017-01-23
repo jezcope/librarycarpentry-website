@@ -18,7 +18,7 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 
 *Winner of the 2016 [British Library Labs](http://labs.bl.uk/British+Library+Labs+Awards) Teaching and Learning Award*
 
-*We are delighted to have published findings from the initial Library Carpentry workshop in [LIBER Quarterly](http://doi.org/10.18352/lq.10176). See Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: http://doi.org/10.18352/lq.10176*
+*We are delighted to have published findings from the initial Library Carpentry workshop in [LIBER Quarterly](http://doi.org/10.18352/lq.10176). See Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: [http://doi.org/10.18352/lq.10176](http://doi.org/10.18352/lq.10176)*
 
 Workshop Call
 -----------
