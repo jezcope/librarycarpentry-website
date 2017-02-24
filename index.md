@@ -20,10 +20,10 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 
 *We are delighted to have published findings from the initial Library Carpentry workshop in [LIBER Quarterly](http://doi.org/10.18352/lq.10176). See Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: [http://doi.org/10.18352/lq.10176](http://doi.org/10.18352/lq.10176)*
 
-Workshop Call
+Upcoming Library Carpentry Events
 -----------
 
-Thanks to [British Library Labs](http://labs.bl.uk/) we have £500 (or non-GBP equivalent) to support a Library Carpentry workshop. If you need financial support to run a Library Carpentry workshop at your library or for librarians, see our [blog](http://librarycarpentry.github.io/workshop-call/) for details of how to apply. The deadline for applications is 16 December.
+7 and 23 March 2017, University of Sheffield. Book now at [http://www.sheffield.ac.uk/library/carpentry](http://www.sheffield.ac.uk/library/carpentry)
 
 Our Lessons
 -----------
