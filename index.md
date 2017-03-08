@@ -23,7 +23,7 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 Upcoming Library Carpentry Events
 -----------
 
-7 and 23 March 2017, University of Sheffield. Book now at [http://www.sheffield.ac.uk/library/carpentry](http://www.sheffield.ac.uk/library/carpentry)
+[7 and 23 March 2017, University of Sheffield](http://www.sheffield.ac.uk/library/carpentry) *(fully booked)*
 
 Our Lessons
 -----------
