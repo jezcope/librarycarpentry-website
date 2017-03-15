@@ -25,6 +25,8 @@ Upcoming Library Carpentry Events
 
 [7 and 23 March 2017, University of Sheffield](http://www.sheffield.ac.uk/library/carpentry) *(fully booked)*
 
+**1-2 June, 2017** We will be updating and extending Library Carpentry materials during the [Mozilla Science Lab](https://science.mozilla.org/programs/events/global-sprint-2017)'s annual Global Sprint. Sign up here to host a sprint site or work remotely on the lessons: [http://pad.software-carpentry.org/lc2017](http://pad.software-carpentry.org/lc2017). Participants and ideas are all welcome. More details to follow.
+
 Our Lessons
 -----------
 
