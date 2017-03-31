@@ -27,6 +27,8 @@ Recent and upcoming Library Carpentry Events
 
 [**4-5 May 2017**, Portland (OR), USA, Software Carpentry / Data Carpentry Instructor Training for Librarians](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) *(fully booked)*
 
+[**15 May 2017**, Boston (MA), USA, Library Carpentry 1-day workshop](https://github.com/weaverbel/2017-05-11-lc-boston) *(fully booked)*
+
 **1-2 June 2017** We will be updating and extending Library Carpentry materials during the [Mozilla Science Lab](https://science.mozilla.org/programs/events/global-sprint-2017)'s annual Global Sprint. Sign up here to host a sprint site or work remotely on the lessons: [http://pad.software-carpentry.org/lc2017](http://pad.software-carpentry.org/lc2017). Participants and ideas are all welcome. More details to follow.
 
 [**15 June 2017**, Taunton Library, UK](https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629)
