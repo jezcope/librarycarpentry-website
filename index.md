@@ -23,7 +23,7 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 Recent and upcoming Library Carpentry Events
 -----------
 
-[**7 and 23 March 2017**, University of Sheffield, UK](http://www.sheffield.ac.uk/library/carpentry) *(fully booked)*
+[**7 and 23 March 2017**, University of Sheffield, UK](https://jezcope.github.io/2017-03-07-sheffield-lc/) *(fully booked)*
 
 [**4-5 May 2017**, Portland (OR), USA, Software Carpentry / Data Carpentry Instructor Training for Librarians](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) *(fully booked)*
 
