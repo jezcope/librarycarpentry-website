@@ -36,4 +36,6 @@ Recent and upcoming Library Carpentry Events
 Our Lessons
 -----------
 
+[More details about lesson statuses and the development process](/lessons/)
+
 {% include lessons.html %}
