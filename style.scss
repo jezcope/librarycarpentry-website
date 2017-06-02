@@ -283,6 +283,36 @@ footer {
   text-align: center;
 }
 
+table.workshops {
+
+    width: 100%;
+    
+    th {
+        font-weight: bold;
+        font-style: italic;
+        text-align: left;
+    }
+
+    tr:nth-child(odd) {
+        background: #fff;
+    }
+
+    tr:nth-child(even) {
+        background: #eee;
+    }
+
+    td, th {
+        padding: 0.2em;
+
+        &.ws-venue {
+        }
+
+        &.ws-date {
+            text-align: right;
+        }
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
