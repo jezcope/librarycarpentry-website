@@ -31,37 +31,31 @@ beta lessons.
 
 ## Lesson development process
 
-***TODO: clean up this section***
+Our recommended process for developing a new lesson is as follows:
 
-Process for developing new lesson:
+1. Develop the initial content on github using the [lesson template][]
+2. Introduce yourself and the lesson on our [gitter channel][] — there may well be willing volunteers to help with the content
+3. Teach the lesson, collect feedback & improve the content
+4. Propose your lesson for the incubator by making a pull request (PR) against [the Library Carpentry website][website], adding a link to your lesson repository as an alpha lesson
+5. The community will discuss the PR, make suggestions and either merge or close the PR
+6. You and others will teach the lesson, collect feedback & improve the content
+7. Propose your lesson for beta/core by making a pull request against [the Library Carpentry website][website], updating the status of your lessen
+8. The community will discuss the PR, make suggestions and either merge or close the PR
+9. Congratulations! Your lesson is now part of core LC
 
-1. Develop initial content on github with the lesson template
-   https://github.com/swcarpentry/lesson-example
-2. Teach the lesson, collect feedback & improve the content
-3. Propose your lesson for the incubator by making a pull request
-   against
-   https://github.com/librarycarpentry/librarycarpentry.github.io
-   adding a link to your lesson repository
-4. The community will discuss the PR, make suggestions and either
-   merge or close the PR
-5. Others teach the lesson, collect feedback & improve the content
-6. Propose your lesson for core by making a pull request against
-   https://github.com/librarycarpentry/librarycarpentry.github.io
-   adding a link to your lesson repository
-7. The community will discuss the PR, make suggestions and either
-   merge or close the PR
-8. Congratulations! Your lesson is now part of core LC
+[lesson template]: https://github.com/swcarpentry/lesson-example
+[website]: https://github.com/librarycarpentry/librarycarpentry.github.io
+[gitter channel]: https://gitter.im/weaverbel/LibraryCarpentry
 
 ### New lesson expectations
 
-These should guide the review process at steps 4 and 7 above.
+In order to maintain consistent quality and style in the Library Carpentry lessons, we have a community-driven set of expectations for what a good lesson should look like. These should guide the review process at steps 4 and 7 above. Lesson developers and reviewers should also read and follow [the guidelines in the Software Development instructor training manual][lesson dev].
 
-Follow the guidelines given in http://swcarpentry.github.io/instructor-training/19-lessons/ !
+[lesson dev]: http://swcarpentry.github.io/instructor-training/19-lessons/
 
 All core LC lessons should:
 
-1. include a short learner profile
-2. include good quality learning objectives
-3. be teachable in 4 (3?) hours
-4. have at least two active maintainers
-5. ...
+1. have at least two active maintainers
+2. include a short learner profile
+3. include good quality learning objectives
+4. be teachable in 3 hours under normal circumstances
