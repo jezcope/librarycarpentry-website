@@ -98,6 +98,23 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+dt {
+    font-weight: bold;
+    float: left;
+    margin-right: 1ex;
+}
+
+dd {
+    margin-bottom: 1em;
+    padding-left: 2ex;
+}
+
+th {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+}
+
 em, i {
   font-style: italic;
 }
