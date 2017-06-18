@@ -6,7 +6,7 @@
     </tr>
   </thead>
   <tbody>
-    {% for w in include.workshops reversed %}
+    {% for w in include.workshops %}
       <tr>
         <!-- TODO: Add flag or other indicator of country -->
         <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
