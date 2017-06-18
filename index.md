@@ -2,8 +2,7 @@
 layout: default
 ---
 
-What is Library Carpentry?
---------------------------
+# What is Library Carpentry?
 
 Library Carpentry is made **by librarians, for librarians** to help
 you:
@@ -20,8 +19,7 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 
 *We are delighted to have published findings from the initial Library Carpentry workshop in [LIBER Quarterly](http://doi.org/10.18352/lq.10176). See Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: [http://doi.org/10.18352/lq.10176](http://doi.org/10.18352/lq.10176)*
 
-Recent and upcoming Library Carpentry Events
------------
+# Upcoming Library Carpentry Events
 
 [**7 and 23 March 2017**, University of Sheffield, UK](https://jezcope.github.io/2017-03-07-sheffield-lc/) *(fully booked)*
 
@@ -33,8 +31,7 @@ Recent and upcoming Library Carpentry Events
 
 [**15 June 2017**, Taunton Library, UK](https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629)
 
-Our Lessons
------------
+# Our Lessons
 
 <table>
   <tbody>
