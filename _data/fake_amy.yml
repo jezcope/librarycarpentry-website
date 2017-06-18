@@ -294,7 +294,6 @@ workshops:
     what: "OpenRefine"
     notes: null
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - address: The Glass Box, Taunton Library, Taunton
     contact: 
     country: gb
@@ -314,6 +313,7 @@ workshops:
     what: "Intro, Git, Maps (bespoke)"
     notes: "https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Canberra (Australian Library and Information Association, New Librarians Symposium)"
     humandate: "23 June 2017"
     start: 2017-06-23
