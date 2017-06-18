@@ -1,55 +1,58 @@
 - status: Core
   lessons:
-    - title: Data Intro for Librarians
+    - title: Introduction to data
       description: |
         An introduction to the terminology of data and computing, and the use of regular expressions to search and update text. 
       repo: https://github.com/data-lessons/library-data-intro
       web:  https://data-lessons.github.io/library-data-intro
 
-    - title: Shell Lessons for Libraries
+    - title: Unix Shell
       description: |
         Introduces the Unix-style command line interface, allowing you
         to efficiently work with directories and files, and find and
         manipulate data.
       web: http://data-lessons.github.io/library-shell/
 
-    - title: OpenRefine for Librarians
+    - title: OpenRefine
       description: |
         An introduction to cleaning and enhancing data in OpenRefine.
       web: http://data-lessons.github.io/library-openrefine/
 
 - status: Beta
   lessons:
-    - title: Git Intro for Librarians
+    - title: Git
       description: |
         Introduces the Git version control system and the GitHub
         collaboration tool.
       web: http://data-lessons.github.io/library-git/
 
-    - title: SQL for Libraries
+    - title: Structured Query Language (SQL)
       description: |
         Introduces relational database management system using SQLite.
       web: http://data-lessons.github.io/library-sql/
     
 - status: Alpha
   lessons:
-    - title: Webscraping for librarians
+    - title: Webscraping
       description: |
-
+        Web scraping is the process of extracting data from websites.
       web: https://data-lessons.github.io/library-webscraping/
 
-    - title: Tidy data & spreadsheets for Libraries
+    - title: Tidy data & spreadsheets
       description: |
-
+        Good data organization is the foundation of much of our
+        day-to-day work in libraries.
       web: https://jezcope.github.io/library-spreadsheets
 
-    - title: Python Intro for Librarians
+    - title: Introduction to Python
       description: |
-
+        Python is a general purpose programming language that supports
+        rapid development of scripts and applications.
       web: http://data-lessons.github.io/library-python/
 
     - title: Data Intro for Archivists
       description: |
-
+        This Library Carpentry lesson introduces archivists to working
+        with data.
       web: https://data-lessons.github.io/data-intro-archives/
     
