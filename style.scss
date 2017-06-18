@@ -315,6 +315,10 @@ footer {
       top: 1px #bbb solid;
       bottom: 1px #bbb solid;
     }
+
+    &:nth-child(odd) {
+      background: #eee;
+    }
   }
 
 }
