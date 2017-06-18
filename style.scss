@@ -300,6 +300,29 @@ footer {
   text-align: center;
 }
 
+//
+// Lesson table formatting
+//
+
+#lesson-table {
+
+  td, th {
+    padding: 1ex;
+  }
+
+  tbody {
+    border: {
+      top: 1px #bbb solid;
+      bottom: 1px #bbb solid;
+    }
+  }
+
+}
+
+.lesson-status {
+  text-align: center;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
