@@ -1,116 +1,17 @@
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Status</th>
-    </tr>
-  </thead>
+<table id="lesson-table">
 
-  <!-- Core lessons -->
-  <tbody>
-    <tr>
-      <td class="lesson-title">
-        <a href="https://data-lessons.github.io/library-data-intro/">
-          <b>Data Intro for Librarians</b></a>
-      </td>
-      <td>
-        An introduction to the terminology of data and computing, and
-        the use of regular expressions to search and update text.
-      </td>
-      <td>Core</td>
-    </tr>
+  {% for lesson_group in site.data.lessons %}
+    <tbody>
+      <tr><th colspan="2" class="lesson-status">{{ lesson_group.status }}</th></tr>
+      {% for lesson in lesson_group.lessons %}
+        <tr>
+          <td class="lesson-title">
+            <a href="{{ lesson.web }}">{{ lesson.title }}</a>
+          </td>
+          <td class="lesson-description">{{ lesson.description }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  {% endfor %}
 
-    <tr>
-      <td class="lesson-title">
-        <a href="http://data-lessons.github.io/library-shell/">
-          <b>Shell Lessons for Libraries</b></a>
-      </td>
-      <td>
-        Introduces the Unix-style command line interface, allowing you
-        to efficiently work with directories and files, and find and
-        manipulate data.
-      </td>
-      <td>Core</td>
-    </tr>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="http://data-lessons.github.io/library-openrefine/">
-          <b>OpenRefine for Librarians</b></a>
-      </td>
-      <td>
-        An introduction to cleaning and enhancing data in OpenRefine.
-      </td>
-      <td>Core</td>
-    </tr>
-
-  </tbody>
-
-  <!-- Beta lessons -->
-  <tbody>
-    
-    <tr>
-      <td class="lesson-title">
-        <a href="http://data-lessons.github.io/library-git/">
-          <b>Git Intro for Librarians</b></a>
-      </td>
-      <td>
-        Introduces the Git version control system and the GitHub
-        collaboration tool.
-      </td>
-      <td>Beta</td>
-    </tr>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="http://data-lessons.github.io/library-sql/">
-          <b>SQL for Libraries</b></a>
-      </td>
-      <td>
-        Introduces relational database management system using SQLite.
-      </td>
-      <td>Beta</td>
-    </tr>
-
-  </tbody>
-
-  <!-- Alpha lessons -->
-  <tbody>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="https://data-lessons.github.io/library-webscraping/">
-          <b>Webscraping for librarians</b></a></td>
-      <td></td>
-      <td>Alpha</td>
-    </tr>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="https://jezcope.github.io/library-spreadsheets">
-          <b>Tidy data & spreadsheets for Libraries</b></a>
-      </td>
-      <td></td>
-      <td>Alpha</td>
-    </tr>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="http://data-lessons.github.io/library-python/">
-          <b>Python Intro for Librarians</b></a>
-      </td>
-      <td></td>
-      <td>Alpha</td>
-    </tr>
-
-    <tr>
-      <td class="lesson-title">
-        <a href="https://data-lessons.github.io/data-intro-archives/">
-          <b>Data Intro for Archivists</b></a></td>
-      <td></td>
-      <td>Alpha</td>
-    </tr>
-
-  </tbody>
 </table>
