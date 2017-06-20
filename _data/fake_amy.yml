@@ -99,21 +99,10 @@ workshops:
     what: "LC Module 1, OpenRefine, git/github, and a lesson sprint"
     notes: "Host: http://www.csir.co.za/; with: https://nedicc.com/"
     blogs: null
-  - venue: "QULOC"
+  - venue: "QULOC "
     humandate: "9 September 2016"
     start: 2016-09-09
     end: 2016-09-09
-    latitude: null
-    longitude: null
-    who: "Belinda Weaver"
-    numbers: null
-    what: "LC workshop - intro + OR (not the full workshop)"
-    notes: "Bits of 1 and 4"
-    blogs: null
-    - venue: "ALIA Nat Conf"
-    humandate: "August 2016"
-    start: null
-    end: null
     latitude: null
     longitude: null
     who: "Belinda Weaver"
@@ -323,7 +312,7 @@ workshops:
     numbers: "???"
     what: "Intro, Git, Maps (bespoke)"
     notes: "https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629"
-    blogs: "https://libraryteaparty.wordpress.com/2017/06/16/library-carpentry-south-west/"
+    blogs: null
 - &id_ws_future # future workshops: move this line down as time passes
   - venue: "Canberra (Australian Library and Information Association, New Librarians Symposium)"
     humandate: "23 June 2017"
@@ -336,24 +325,16 @@ workshops:
     what: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
     blogs: null
-   - address: Sussex Humanities Lab, University of Sussex, Falmer
-    contact: james.baker@sussex.ac.uk
-    country: gb
-    start: 2017-07-12
-    end: 2017-07-12
-    eventbrite_id: ''
-    humandate: 12 July 2017
-    latitude:  50.867090
-    longitude: -0.087914
-    slug: null
-    tags:
-    - {name: LC}
-    url: https://sussexlibrarycarpentry.eventbrite.co.uk
-    venue: University of Sussex
-    who: "Suzanne Tatham, Antony Groves, James Baker"
-    numbers: 15
-    what: "Shell, Git, Refine"
-    notes: null
+  - venue: "ALIA Nat Conf"
+    humandate: "August 2016"
+    start: null
+    end: null
+    latitude: null
+    longitude: null
+    who: "Belinda Weaver"
+    numbers: null
+    what: "LC workshop - intro + OR (not the full workshop)"
+    notes: "Bits of 1 and 4"
     blogs: null
   - venue: "QUT Library, Brisbane"
     humandate: "November TBA"
