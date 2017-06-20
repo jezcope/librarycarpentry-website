@@ -41,12 +41,12 @@ ______
 
 ## How is Library Carpentry Managed?
 
-Library Carpentry was developed and is maintained by volunteers. There is no central organisation or command structure, and all activity is - at present - voluntary.  Management and maintenance are distributed. Each module is 'owned' by one of more individuals responsible for coordinating maintenance of that module. Changes to lessons are managed using the GitHub Issue tracker. Announcements and initial discussion take place on [Gitter](https://gitter.im/weaverbel/LibraryCarpentry). New members are welcome to join this community.
+Library Carpentry was developed and is maintained by volunteers. There is no central organisation or command structure, and all activity is - at present - voluntary.  Management and maintenance are distributed. Each module is 'owned' by one of more individuals responsible for coordinating maintenance of that module. Changes to lessons are managed using the GitHub Issue tracker. Announcements and initial discussion take place on [Gitter](https://gitter.im/LibraryCarpentry/). New members are welcome to join this community.
 
 ______
 
 ### Contact
 
-If you wish to contact Library Carpentry, leave a message on our [discussion forum](https://gitter.im/weaverbel/LibraryCarpentry), raise a issue on [one of our lesson repositories](https://github.com/data-lessons), or get in touch with our of [our regional coordinators](https://github.com/data-lessons/librarycarpentry/issues/10#issue-181435373) through the form below.
+If you wish to contact Library Carpentry, leave a message on our [discussion forum](https://gitter.im/LibraryCarpentry/), raise a issue on [one of our lesson repositories](https://github.com/data-lessons), or get in touch with our of [our regional coordinators](https://github.com/data-lessons/librarycarpentry/issues/10#issue-181435373) through the form below.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2m4uYJ_-7EyuQA9071MICt2diG7X-IhJKfqKCyf8pJ77_aA/viewform?embedded=true" width="720" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
