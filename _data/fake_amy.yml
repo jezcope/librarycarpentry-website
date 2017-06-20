@@ -10,6 +10,7 @@ workshops:
     numbers: 59
     what: null
     notes: null
+    url: "https://cradledincaricature.com/2015/12/01/library-carpentry-in-words-and-numbers-all-code-no-woodwork/"
     blogs: "https://cradledincaricature.com/2015/12/01/library-carpentry-in-words-and-numbers-all-code-no-woodwork/"
   - venue: "Brisbane ResBaz"
     humandate: "Feb 2016"
@@ -30,7 +31,7 @@ workshops:
     longitude: 10.7217496
     who: "Elin Stangeland"
     numbers: null
-    what: "https://scriptotek.github.io/2016-03-17-BS/"
+    url: "https://scriptotek.github.io/2016-03-17-BS/"
     notes: null
     blogs: "http://software-carpentry.org/blog/2016/04/carpentry_week_2016_oslo.html"
   - venue: "University of Queensland"
@@ -41,7 +42,7 @@ workshops:
     longitude: 153.0120301
     who: "Belinda Weaver"
     numbers: 18
-    what: "http://weaverbel.github.io/2016-06-13-LibCarp/index.html"
+    url: "http://weaverbel.github.io/2016-06-13-LibCarp/index.html"
     notes: "Taught 1-4 (regex, shell, git, OR)"
     blogs: "http://software-carpentry.org/blog/2016/06/LCworkshop.html"
   - venue: "Basel University Library, Switzerland"
@@ -52,7 +53,7 @@ workshops:
     longitude: 7.581200999999999
     who: "Thomas Guignard et al."
     numbers: 39
-    what: "https://swissbib.github.io/2016-06-23-basel/"
+    url: "https://swissbib.github.io/2016-06-23-basel/"
     notes: "Regular Software Carpentry workshop + modified OR lesson."
     blogs: null
   - venue: "James Cook Uni, Townsville"
@@ -63,7 +64,7 @@ workshops:
     longitude: 146.7580624
     who: "Daniel Baird, Jay van Schyndel"
     numbers: null
-    what: "https://jcu-eresearch.github.io/2016-07-LibraryCarpentry/index.html"
+    url: "https://jcu-eresearch.github.io/2016-07-LibraryCarpentry/index.html"
     notes: "Taught 1-4 (regex, shell, git, OR)"
     blogs: "http://software-carpentry.org/blog/2016/07/librarycarpentry-jcu.html"
   - venue: "UC San Diego "
@@ -74,7 +75,7 @@ workshops:
     longitude: -117.2340135
     who: "Juliane Schneider/Tim Dennis"
     numbers: "37-40"
-    what: "https://ucsdlib.github.io/2016-07-18-UCSD/"
+    url: "https://ucsdlib.github.io/2016-07-18-UCSD/"
     notes: "Taught 1-4 (regex, shell, git, OR)"
     blogs: "http://software-carpentry.org/blog/2016/08/lc-at-ucsd.html"
   - venue: "University of Toronto"
@@ -85,7 +86,7 @@ workshops:
     longitude: -79.39565640000001
     who: "Thomas Guignard et al."
     numbers: 40
-    what: "https://code4libtoronto.github.io/2016-07-28-librarycarpentry/"
+    url: "https://code4libtoronto.github.io/2016-07-28-librarycarpentry/"
     notes: "XPath/XQuery, regex, OR, Python, Web Scraping"
     blogs: "http://software-carpentry.org/blog/2016/07/library-carpentry-in-toronto.html"
   - venue: "ALIA Nat Conf"
@@ -129,7 +130,7 @@ workshops:
     longitude: -122.2570491
     who: "Tim Dennis/Harrison Dekker"
     numbers: 37
-    what: "https://jt14den.github.io/2016-10-10-UCB/"
+    url: "https://jt14den.github.io/2016-10-10-UCB/"
     notes: "TBD, def. OF/regex"
     blogs: null
   - venue: "Macquarie University Library, Sydney"
@@ -173,7 +174,7 @@ workshops:
     longitude: -1.5550328
     who: 40
     numbers: "tbc"
-    what: "https://arcleeds.github.io/2016-11-21-leeds/"
+    url: "https://arcleeds.github.io/2016-11-21-leeds/"
     notes: null
     blogs: null
   - venue: "Macquarie University Library, Sydney"
@@ -218,6 +219,7 @@ workshops:
     who: "Elin Stangeland, Dan Michael Heggø, Kyrre Traavik Låberg"
     numbers: "tbc"
     what: "Part of ResBaz2017 Oslo https://2017.resbaz.com/oslo http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html"
+    url: "http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html"
     notes: "Full LC"
     blogs: null
   - address: Information Commons, University of Sheffield, Sheffield
@@ -258,8 +260,8 @@ workshops:
     longitude: 18.4611991
     who: "Isak van der Walt; Erika Mias; Kayleigh Roos"
     numbers: "???"
-    what: "Part of eResearch Africa http://www.eresearch.ac.za/programme-2017#Friday,_05_May_2017"
-    notes: "Intro and Open Refine"
+    url: "http://www.eresearch.ac.za/programme-2017#Friday,_05_May_2017"
+    notes: "Part of eResearch Africa. Intro and Open Refine"
     blogs: null
   - venue: "Boston/Cambridge"
     humandate: "15 May 2017"
@@ -269,8 +271,8 @@ workshops:
     longitude: -71.08616099999999
     who: "Belinda Weaver, Julianna Schneider"
     numbers: 30
-    what: "Regex, bash, refine https://weaverbel.github.io/2017-05-11-lc-boston/"
-    notes: null
+    url: "https://weaverbel.github.io/2017-05-11-lc-boston/"
+    notes: "Regex, bash, refine"
     blogs: null
   - venue: "University of Manchester"
     humandate: "18 May 2017"
@@ -292,6 +294,7 @@ workshops:
     who: "Matt Burton, Tim Dennis, James Baker"
     numbers: 37
     what: "Bash and OF "
+    url: "https://datascienceinlibraries.github.io/2017-05-18-pitt/"
     notes: "Attached to IMLS Data Science in Libraries workshop. For librarians at the Carnegie Library of Pittsburgh, the University of Pittsburgh Library of System, and Carnegie Mellon Libraries."
     blogs: null
   - venue: "Macquarie University Library, Sydney"
@@ -333,7 +336,7 @@ workshops:
     longitude: 149.095531
     who: "Carmi Cronje, Fiona Jones"
     numbers: 20
-    what: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
+    url: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
     blogs: null
   - venue: "University of Sussex"
