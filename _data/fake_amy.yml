@@ -345,7 +345,7 @@ workshops:
     who: "Suzanne Tatham, Antony Groves, James Baker"
     numbers: null
     what: "Shell, Git, Refine"
-    notes: "https://sussexlibrarycarpentry.eventbrite.co.uk"
+    url: "https://sussexlibrarycarpentry.eventbrite.co.uk"
     blogs: null
   - venue: "QUT Library, Brisbane"
     humandate: "November TBA"
