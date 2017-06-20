@@ -336,6 +336,17 @@ workshops:
     what: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
     blogs: null
+  - venue: "University of Sussex"
+    humandate: "12 July 2017"
+    start: null
+    end: null
+    latitude: 50.867090
+    longitude: -0.087914
+    who: "Suzanne Tatham, Antony Groves, James Baker"
+    numbers: null
+    what: "Shell, Git, Refine"
+    notes: "https://sussexlibrarycarpentry.eventbrite.co.uk"
+    blogs: null
   - venue: "QUT Library, Brisbane"
     humandate: "November TBA"
     start: null
