@@ -88,6 +88,17 @@ workshops:
     what: "https://code4libtoronto.github.io/2016-07-28-librarycarpentry/"
     notes: "XPath/XQuery, regex, OR, Python, Web Scraping"
     blogs: "http://software-carpentry.org/blog/2016/07/library-carpentry-in-toronto.html"
+  - venue: "ALIA Nat Conf"
+    humandate: "August 2016"
+    start: null
+    end: null
+    latitude: null
+    longitude: null
+    who: "Belinda Weaver"
+    numbers: null
+    what: "LC workshop - intro + OR (not the full workshop)"
+    notes: "Bits of 1 and 4"
+    blogs: null
   - venue: "Pretoria, South Africa"
     humandate: "25-26 August 2016"
     start: 2016-08-25
@@ -324,17 +335,6 @@ workshops:
     numbers: 20
     what: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
-    blogs: null
-  - venue: "ALIA Nat Conf"
-    humandate: "August 2016"
-    start: null
-    end: null
-    latitude: null
-    longitude: null
-    who: "Belinda Weaver"
-    numbers: null
-    what: "LC workshop - intro + OR (not the full workshop)"
-    notes: "Bits of 1 and 4"
     blogs: null
   - venue: "QUT Library, Brisbane"
     humandate: "November TBA"
