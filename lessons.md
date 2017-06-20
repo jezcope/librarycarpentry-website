@@ -50,7 +50,7 @@ Our recommended process for developing a new lesson is as follows:
 
 [lesson template]: https://github.com/swcarpentry/lesson-example
 [website]: https://github.com/librarycarpentry/librarycarpentry.github.io
-[gitter channel]: https://gitter.im/weaverbel/LibraryCarpentry
+[gitter channel]: https://gitter.im/LibraryCarpentry/
 
 ### New lesson expectations
 
