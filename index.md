@@ -21,7 +21,7 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 
 # Upcoming Library Carpentry Events
 
-{% include workshop_table.html workshops=site.data.fake_amy.workshops_future %}
+{% include workshop_table.html workshops=site.data.workshops.workshops_future %}
 
 [See all past and planned workshops](/workshops)
 
