@@ -327,7 +327,6 @@ workshops:
     what: "Intro, Git, Maps (bespoke)"
     notes: "https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Canberra (Australian Library and Information Association, New Librarians Symposium)"
     humandate: "23 June 2017"
     start: 2017-06-23
@@ -339,6 +338,7 @@ workshops:
     url: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Sussex"
     humandate: "12 July 2017"
     start: null
